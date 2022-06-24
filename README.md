@@ -7,7 +7,7 @@
      { 
       "Linkedin" : "https://www.linkedin.com/in/humberto-gabriel-fern%C3%A1ndez-moreno-1304b78b/", 
       "Resume"   : "https://drive.google.com/file/d/1AmpX0SHCAk8Sa3IyqcH16JFa2XtbWOq5/view?usp=sharing",
-      "Email"    : "humbertof44@gmail.com"
+      "Email"    : "hfernandez@pandaid.com"
      }
  }
 ```
@@ -57,7 +57,7 @@
 - Full Stack Developer, with extensive experience in web development and custom software solutions.
 
 ### 📚 I'm currently learning:
-- GraphQL / Neo4J / NodeJS
+- GraphQL / Apolo / Neo4J
 - React JS
 - MEAN Stack Course
 - FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a>
